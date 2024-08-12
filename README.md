@@ -2,7 +2,7 @@
   <a href="https://github.com/ChiGeorgeMofor" target="_blank">Cybersecurity Engineer</a>, 
   <a href="https://twitter.com/chi_mofor" target="_blank">Network Analyst</a>, 
   <a href="https://www.linkedin.com/in/chi-george-mofor-037883247/" target="_blank">Software Engineer</a>
-</h1>
+</h1> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
