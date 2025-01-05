@@ -53,11 +53,11 @@
 
 <h2>⚡ Certifications</h2>
 <ul>
-  <li>📜 <a href="https://www.youtube.com/watch?v=a83ASGn_V_s" target="_blank">How to get into Cybersecurity Starting From Zero</a></li>
-  <li>🎥 <a href="https://www.youtube.com/watch?v=uHy3oM7NnoU" target="_blank">A Day in the Life of a Cybersecurity Analyst</a></li>
-  <li>🎥 <a href="https://www.youtube.com/watch?v=N-L9hklSlNk" target="_blank">How to Create a Keylogger (C#)</a></li>
-  <li>🎥 <a href="https://www.youtube.com/watch?v=OfvdQeh79s0" target="_blank">Ransomware Demonstration (C#)</a></li>
-  <li>🎥 <a href="https://www.youtube.com/watch?v=E2MwRWxDBkA" target="_blank">Is WGU Legit?</a></li>
+  <li>📜 <a href="https://www.youtube.com/" target="_blank">How to get into Cybersecurity Starting From Zero</a></li>
+  <li>🎥 <a href="https://www.yout" target="_blank">A Day in the Life of a Cybersecurity Analyst</a></li>
+  <li>🎥 <a href="https://www.youtu" target="_blank">How to Create a Keylogger (C#)</a></li>
+  <li>🎥 <a href="https://www.youtube.c" target="_blank">Ransomware Demonstration (C#)</a></li>
+  <li>🎥 <a href="https://www.youtube.com" target="_blank">Is WGU Legit?</a></li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
