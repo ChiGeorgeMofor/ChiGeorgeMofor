@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/chi-george-mofor-037883247/" target="_blank">Computer Technician</a>      
 </h1>           
       
-<h2>👨‍💻 Cybersecurity Projects:</h2>    
+<h2>👨‍💻 Cybersecurity Projects:</h2>     
 <ul>   
   <li>🔒 <a href="https://github.com/chimoforcybertest/LABURL" target="_blank">Active Directory Home Lab</a></li>
   <li><b>C# (.NET Desktop Applications)</b>
