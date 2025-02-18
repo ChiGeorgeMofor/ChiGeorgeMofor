@@ -21,7 +21,7 @@
   </li>
 </ul>
  
-<h2>🌐 Networking Analyst Projects:</h2>
+<h2>🌐 Networking Analyst Projects:</h2>   
 <ul>
   <li>📡 <a href="https://github.com/ChiGeorgeMofor/Network-Monitoring-Tool" target="_blank">Network Monitoring Tool</a></li>
   <li>🔗 <a href="https://github.com/ChiGeorgeMofor/VPN-Setup-Scripts" target="_blank">VPN Setup Scripts</a></li>
