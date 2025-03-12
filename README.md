@@ -5,22 +5,7 @@
 </h1>            
        
 <h2>👨‍💻 Cybersecurity Projects:</h2>      
-<ul>   
-  <li>🔒 <a href="https://github.com/chimoforcybertest/LABURL" target="_blank">Active Directory Home Lab</a></li>
-  <li><b>C# (.NET Desktop Applications)</b>
-    <ul> 
-      <li>🛡️ <a href="https://github.com/ChiGeorgeMofor/EncrypterPOC" target="_blank">Ransomware Proof of Concept (Encrypter)</a></li>
-      <li>🔓 <a href="https://github.com/ChiGeorgeMofor/DecrypterPOC" target="_blank">Ransomware Proof of Concept (Decrypter)</a></li>
-      <li>🖥️ <a href="https://github.com/ChiGeorgeMofor/Key-Logger-With-Email" target="_blank">Keylogger with Email Capability</a></li>
-    </ul>
-  </li>
-  <li><b>Python</b>
-    <ul>
-      <li>📦 <a href="https://github.com/ChiGeorgeMofor/Package-Delivery-Pathfinding-Algorithm" target="_blank">Package Delivery Application (Datastructures and Algorithms Demo)</a></li>
-    </ul>
-  </li>
-</ul>
- 
+   
 <h2>🌐 Networking Analyst Projects:</h2>   
 <ul>
   <li>📡 <a href="https://github.com/ChiGeorgeMofor/Network-Monitoring-Tool" target="_blank">Network Monitoring Tool</a></li>
