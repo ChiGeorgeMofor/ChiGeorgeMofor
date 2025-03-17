@@ -13,21 +13,6 @@
   <li>📶 <a href="https://github.com/ChiGeorgeMofor/WiFi-Analyzer" target="_blank">WiFi Analyzer</a></li>
 </ul>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-<ul>
-  <li><b>C# (.NET Desktop Applications)</b>
-    <ul>
-      <li>📊 <a href="https://github.com/ChiGeorgeMofor/Inventory-Management-System" target="_blank">Inventory Management System</a></li>
-      <li>💼 <a href="https://github.com/ChiGeorgeMofor/Employee-Management-System" target="_blank">Employee Management System</a></li>
-      <li>📅 <a href="https://github.com/ChiGeorgeMofor/Calendar-Application" target="_blank">Calendar Application</a></li>
-    </ul>
-  </li>
-  <li><b>Java</b>
-    <ul>
-      <li>🎓 <a href="https://github.com/ChiGeorgeMofor/Student-Management-System" target="_blank">Student Management System</a></li>
-      <li>📚 <a href="https://github.com/ChiGeorgeMofor/Library-Management-System" target="_blank">Library Management System</a></li>
-    </ul>
-  </li>
   <li><b>Python</b>
     <ul>
       <li>🛒 <a href="https://github.com/ChiGeorgeMofor/E-commerce-Platform" target="_blank">E-commerce Platform</a></li>
