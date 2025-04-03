@@ -61,7 +61,7 @@
 <h2 style="color:#ffcc00;">🌍 Connect with Me</h2>
 <ul>
   <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chi-george-mofor-037883247/" style="color:#32cd32;">linkedin.com</a></li>
-  <li>🐦 <strong>X:</strong> <a href="https://twitter.com/chi_mofor" style="color:#ff4500;">X.com</a></li>
+  <li>🐦 <strong>X:</strong> <a href="https://twitter.com/chi_mofor" style="color:#ff4500;">x.com</a></li>
   
 </ul>
 
