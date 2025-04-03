@@ -60,10 +60,9 @@
 
 <h2 style="color:#ffcc00;">🌍 Connect with Me</h2>
 <ul>
-  <li>📧 <strong>Email:</strong> <a href="mailto:your-email@example.com" style="color:#00bfff;">your-email@example.com</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile" style="color:#32cd32;">linkedin.com/in/your-profile</a></li>
-  <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/yourhandle" style="color:#ff4500;">@yourhandle</a></li>
-  <li>💻 <strong>GitHub:</strong> <a href="https://github.com/your-github-username" style="color:#9400d3;">github.com/your-github-username</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/chi-george-mofor-037883247/" style="color:#32cd32;">linkedin.com/in/your-profile</a></li>
+  <li>🐦 <strong>X:</strong> <a href="https://twitter.com/chi_mofor" style="color:#ff4500;">@yourhandle</a></li>
+  
 </ul>
 
 <hr>
