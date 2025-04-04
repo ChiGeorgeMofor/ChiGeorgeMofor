@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ♱ <span style="color:#9400d3;">Festina Lente ~ MWMSBL</span>
+  ♱ <span style="color:#9400d3;">Festina Lente ~ MWMSBL</span> 
 </p>
 
 <hr>
