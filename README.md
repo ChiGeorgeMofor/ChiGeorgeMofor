@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#00bfff;">👋 Hey there! I'm <span style="color:#ffcc00;">Chi George</span></h1>
   
-<p align="center">  
+<p align="center">   
   <strong style="color:#ff4500;">CyberSecurity Analyst | Penetration Tester | Software Developer | OSINT | OPSEC | System Administrator | Active Learner | Forex/Crypto Trader</strong>
 </p> 
 
