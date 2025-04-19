@@ -3,7 +3,7 @@
 <p align="center">   
   <strong style="color:#ff4500;">CyberSecurity Analyst | Penetration Tester | Software Developer | OSINT | OPSEC | System Administrator | Active Learner | Forex/Crypto Trader</strong>
 </p>  
-
+ 
 <p align="center">  
   ♱ <span style="color:#9400d3;">Festina Lente ~ MWMSBL</span>  
 </p>
