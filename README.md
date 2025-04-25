@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2 style="color:#00ff7f;">🚀 About Me</h2>
+<h2 style="color:#00ff7f;">🚀 About Me</h2> 
 <p>
   I am a <strong style="color:#ffcc00;">cybersecurity enthusiast</strong> with a growing background in 
   <strong style="color:#1e90ff;">Computer Software Development</strong> and 
