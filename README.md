@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00bfff;">👋 Hey there! I'm <span style="color:#ffcc00;">Chi George</span></h1>  
   
 <p align="center">    
-  <strong style="color:#ff4500;">CyberSecurity Analyst | Penetration Tester | Software Developer | OSINT | OPSEC | System Administrator | Active Learner | Forex/Crypto Trader</strong> 
+  <strong style="color:#ff4500;">CyberSecurity Analyst | Penetration Tester | Software Developer | OSINT | OFSEC | System Administrator | Active Learner | Forex/Crypto Trader</strong> 
 </p>    
  
 <p align="center">   
@@ -17,7 +17,7 @@
   <strong style="color:#ff6347;">Computer Networking</strong>. 
   My passion for cybersecurity extends far beyond the classroom—I've been actively engaged in 
   <strong style="color:#ff69b4;">self-directed learning</strong>, hands-on projects, and in-depth research to master this field.
-</p>
+</p> 
 
 <h2 style="color:#ffa500;">🛠 My Skill Set</h2>
 <ul>
